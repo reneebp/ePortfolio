@@ -1,19 +1,19 @@
-how can a user build and test your program (also called the user guide); 
-    Compilation without file: 
-        1. Enter rpalmer_eportfolio directory 
-        2. Enter javac ePortfolio/*.java into the command line
-        3. Enter java ePortfolio.Investment 
-    Compilation with file: 
-        1-2. Same process
-        3. Enter java ePortfolio.Investment <filename.txt>
-	- make sure file is in rpalmer_eportfolio folder and not ePortfolio folder
-	- output file will appear in ePortfolio folder
-    Using ePortfolio:
-        - Upon first running the welcome window will appear. The menu bar will be at top of the page, which has all the commands in the program.
-	    If you are running with no file added you will initially have no investments stored in the program and will first need to buy an
-	    investment(s) in order to make use of the remaining commands.	   		  			   	       		
-        - After adding in your desired amount of investments the user can buy, sell, update, see gains, and search as much as they like
-        - To exit program, the user can either press the red button at the top left of the screen or select "Exit ePortfolio" from the menubar
+	how can a user build and test your program (also called the user guide); 
+	    Compilation without file: 
+		1. Enter rpalmer_eportfolio directory 
+		2. Enter javac ePortfolio/*.java into the command line
+		3. Enter java ePortfolio.Investment 
+	    Compilation with file: 
+		1-2. Same process
+		3. Enter java ePortfolio.Investment <filename.txt>
+		- make sure file is in rpalmer_eportfolio folder and not ePortfolio folder
+		- output file will appear in ePortfolio folder
+	    Using ePortfolio:
+		- Upon first running the welcome window will appear. The menu bar will be at top of the page, which has all the commands in the program.
+		    If you are running with no file added you will initially have no investments stored in the program and will first need to buy an
+		    investment(s) in order to make use of the remaining commands.	   		  			   	       		
+		- After adding in your desired amount of investments the user can buy, sell, update, see gains, and search as much as they like
+		- To exit program, the user can either press the red button at the top left of the screen or select "Exit ePortfolio" from the menubar
 The program was tested using the following examples:
     Buying Stock - testing Buy button:
     - Stock symbol = APPL
