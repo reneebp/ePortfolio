@@ -1,5 +1,3 @@
-# ePortfolio
-     
 (1) how can a user build and test your program (also called the user guide); 
     Compilation without file: 
         1. Enter rpalmer_eportfolio directory 
