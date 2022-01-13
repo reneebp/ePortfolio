@@ -1,4 +1,4 @@
-(1) how can a user build and test your program (also called the user guide); 
+how can a user build and test your program (also called the user guide); 
     Compilation without file: 
         1. Enter rpalmer_eportfolio directory 
         2. Enter javac ePortfolio/*.java into the command line
@@ -14,7 +14,7 @@
 	    investment(s) in order to make use of the remaining commands.	   		  			   	       		
         - After adding in your desired amount of investments the user can buy, sell, update, see gains, and search as much as they like
         - To exit program, the user can either press the red button at the top left of the screen or select "Exit ePortfolio" from the menubar
-(2) The program was tested using the following examples:
+The program was tested using the following examples:
     Buying Stock - testing Buy button:
     - Stock symbol = APPL
     - Stock name = Apple
