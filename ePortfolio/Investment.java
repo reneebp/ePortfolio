@@ -1,10 +1,6 @@
 /**
  * Title: Assignment 3
  * Author: Renee Palmer
- * Student Number: 1043935
- * Email:rpalme05@uoguelph.ca
- * Instructor: F. Song 
- * Course: CIS 2430
 */
 package ePortfolio;
 import java.util.*;
